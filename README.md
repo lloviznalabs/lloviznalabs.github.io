@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bright Future
 
 You can use the [editor on GitHub](https://github.com/lloviznalabs/lloviznalabs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
